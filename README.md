@@ -66,9 +66,6 @@ uvicorn app.main:app --reload
 pytest
 ```
 
-## URLs locais
+## URL
 
-- Aplicação: http://127.0.0.1:8000
-- Swagger: http://127.0.0.1:8000/docs
-- Health: http://127.0.0.1:8000/health
-- Health do banco: http://127.0.0.1:8000/health/database
+https://dallazem.alwaysdata.net/
